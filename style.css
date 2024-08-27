@@ -1,0 +1,8 @@
+.bg-image{
+    background-image: url(./images/10-minute-school-raises-55m.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
